@@ -6,7 +6,7 @@ The primary purpose of this repository is to supply JSON files for parsing and o
 ## Files
 
 `ccTLD.json`: A list of country-specific Top-Level Domains (TLDs) with their respective country names.\
-`ccTLD_and_ccSLD.json`: Extends the `ccTLD.json` file by including a list of known Second-Level Domains (SLDs) under each ccTLD.
+`ccTLD_ccSLD.json`: Extends the `ccTLD.json` file by including a list of known Second-Level Domains (SLDs) under each ccTLD.
 
 ### Structure of json files
 
